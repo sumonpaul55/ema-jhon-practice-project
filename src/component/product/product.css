@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin:0 5px 5px 0;
+    padding: 5px;
+}
+.product img{
+    margin-right: 10px;
+}
+.product-name{
+    color: blue;
+    font-weight: 500;
+}
+.addTocartBtn{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: rgb(233, 186, 0);
+    border-radius: 5px;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.adtoCartBtnicon{
+    margin-right: 5px;
+}

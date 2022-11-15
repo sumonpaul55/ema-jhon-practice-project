@@ -1,0 +1,9 @@
+.cart-mani{
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    min-width: 300px;
+    box-shadow: 0 0  10px rgb(199, 199, 199);
+    border-radius: 10px;
+    margin-left: 10px;
+}
